@@ -1,5 +1,5 @@
 # config_so_w11
-configuration to development environment for windows 11
+configuration for development environment for windows 11
 
 # 1 Passo
 Certificar-se de estar com os drivers e windows atualizado
