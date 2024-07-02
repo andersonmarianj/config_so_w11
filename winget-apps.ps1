@@ -4,8 +4,6 @@ winget install -e --id Spotify.Spotify;
 winget install -e --id Discord.Discord; 
 # vscode 
 winget install -e --id Microsoft.VisualStudioCode;
-# node
-winget install -e --id OpenJS.NodeJS; 
 # dbeaver
 winget install -e --id dbeaver.dbeaver;
 # docker
